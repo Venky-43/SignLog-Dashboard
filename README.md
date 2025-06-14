@@ -39,5 +39,5 @@ python manage.py runserver
 
 Venkannababu Kothapalli
 
-🔗 GitHub Profile
+## GitHub Profile : https://github.com/Venky-43
 
